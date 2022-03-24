@@ -29,4 +29,4 @@ Número de vogais: 2
 11. Faça um algoritmo que leia uma sequência de números terminada em zero e mostre para cada número lido se ele é primo ou não. <br>
 12. Faça um algoritmo que leia uma opção de um menu sendo [1] Soma, [2] Subtração, [3] Multiplicação e [4] Divisão. Se a opção for válida, o programa deverá ler os operandos, realizar a operação e mostrar o resultado. Caso contrário, o programa deverá exibir uma mensagem de operação inválida. O programa termina quando o usuário digita 0.<br>
 <hr>
-PS: Lido em computação significa um comando de leitura como, por exemplo, input no Python.
+<strong>PS: Lido em computação significa um comando de leitura como, por exemplo, input no Python.</strong>
