@@ -5,7 +5,7 @@ Lista 03 de exercício de lógica de programação.
 <h2>Prof. Luiz Paulo Maia</h2>
 <h3>Lista de Exercícios 3</h3>
 
-1. Faça um algoritmo que leia uma sequência de caracteres terminada por um ponto e mostre o número de vogais da frase. Cada caractere deve ser digitado/lido separadamente.
+1. Faça um algoritmo que leia uma sequência de caracteres terminada por um ponto e mostre o número de vogais da frase. Cada caractere deve ser digitado/lido separadamente.<br>
 Exemplo:<br>
 Entre com um caractere: a<br>
 Entre com um caractere: @<br>
@@ -14,7 +14,6 @@ Entre com um caractere: 2<br>
 Entre com um caractere: e<br>
 Entre com um caractere: .<br>
 Número de vogais: 2<br>
-<br>
 3. Faça um algoritmo que calcule a soma dos números de 1 a 100.<br>
 4. Faça um algoritmo que leia uma sequência de 20 números inteiros e mostre a soma, média, o maior número e o menor número da sequência.<br>
 5. Faça um algoritmo que leia uma sequência de n números inteiros e mostre a soma, média, o maior número e o menor número da sequência.<br>
