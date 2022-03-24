@@ -1,6 +1,3 @@
-# logica-de-programacao-tp3
-Lista 03 de exercício de lógica de programação.
-
 <h1>Fundamentos de Programação</h1>
 <h2>Prof. Luiz Paulo Maia</h2>
 <h3>Lista de Exercícios 3</h3>
